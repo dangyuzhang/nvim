@@ -1,2 +1,5 @@
 require("config.options")
 require("config.keymaps")
+require("config.other")
+require("plugins.plugins-setup")
+require("plugins.lualine")
