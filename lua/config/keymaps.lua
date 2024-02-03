@@ -27,6 +27,7 @@ keymap.set("n", "K", "5kzz")
 
 
 
+keymap.set("n", "T", ":NvimTreeToggle<CR>")
 
-
-
+keymap.set("n", "H", ":BufferLineCyclePrev<CR>")
+keymap.set("n", "L", ":BufferLineCycleNext<CR>")
